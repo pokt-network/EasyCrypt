@@ -26,3 +26,4 @@
 
 -dontwarn javax.annotation.**
 -dontwarn org.codehaus.mojo.**
+-ignorewarnings

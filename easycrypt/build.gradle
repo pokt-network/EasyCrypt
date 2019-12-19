@@ -39,7 +39,7 @@ android {
         release {
             keyAlias 'android-release'
             keyPassword keyPass
-            storeFile file("${storeFilePath}/keystore.jks")
+            //storeFile file("${storeFilePath}/keystore.jks")
             storePassword storePass
         }
     }
