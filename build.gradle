@@ -5,8 +5,8 @@ ext {
     minSdk = 19
     targetSdk = 27
 
-    easyCrypt = '1.3.5'
-    easyCryptCode = 135
+    easyCrypt = '1.3.6'
+    easyCryptCode = 136
     easyCryptSample = '2.3.3'
     easyCryptSampleCode = 233
 
